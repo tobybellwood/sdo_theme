@@ -1,1 +1,0 @@
-# sdo_theme
