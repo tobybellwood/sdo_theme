@@ -82,16 +82,16 @@
            </div>
       <?php endif; ?>
 	
-	
+	</div>
 
 <?php /**  This applies for the title **/ ?>
 	  
-
+<div class="test">
       <?php if (!empty($title)): ?>
-          <a href="<?php print $text_url_made_this_var_up = url('/node/'. $nid); ?>"> <h2<?php print $title_attributes; ?>><?php print $title ?></h2></a>
- </div>
+          <a href="<?php print $text_url_made_this_var_up = url('/node/'. $nid); ?>"> <h2 <?php print $title_attributes; ?>><?php print $title ?></h2></a>
+	  </div> 
       <?php endif;?>
-	  
+
 	  
 <?php /**  This applies for the summary body text **/ ?>
 	

@@ -15,6 +15,89 @@
 }
 
 
+.test{
+	
+	position:relative;
+	margin-top:20rem;
+}
+
+
+ /* arrows for the about us page */
+ .about__title {
+  font-size: 16px;
+  font-size: 1.0rem;
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 140px;
+  height: 61px;
+  margin: 5px 0; /* margin / position of the entire element includin the grey arrow box */
+  padding: 0.75em 0.8em;
+  color: black;
+  background-color: #e2e2e2;
+  text-transform: uppercase;
+  font-family: "TradeGothicLT", Arial, Helvetica, "Nimbus Sans L", sans-serif; }
+
+.about__title:after {
+  width: 19px;
+  height: 60px;
+  position: absolute;
+  top: 1px;
+  left: 140px;
+  content: '';
+  background: url("../images/mission-arrow.png?1416979236") no-repeat; 
+
+  }
+
+.about__statement {
+  line-height: 34px;
+  line-height: 2.26667rem;
+  margin: 0 0 0 125px; 
+  
+  }
+
+.about__statement p {
+  margin: 0; }
+ 
+ .about__statement { 
+    padding-bottom: 2rem;
+	padding-top: 1rem;
+	padding-left: 4rem;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*  .view-latest-news {
   max-width: 100px; 
   }
@@ -31,12 +114,12 @@
  
   
 .view-latest-news .node-compact .field-type-image {
-	max-width: 300px; 
+
     margin: 0 0px 0px 0;}
 
 @media (min-width: 480px){
 .listing__image, .node-compact .field-type-image {
-	max-width: 300px; 
+
     float: left;
     margin: 0 0px 0px 0;
 }
@@ -63,32 +146,38 @@
 	   
    }
    
-.view-latest-news .grayscale.grayscale-fade{
+.view-latest-news .grayscale.grayscale-fade, img.scale-with-grid{
 	float: left;
 	margin-right: 1em;
+
 }
- 
+
 
  .view-latest-news .image-title {
   /* position: relative; */
   margin-bottom: 11px; }
   
  .view-latest-news .image {
-  max-width: 300px; 
+
   line-height: 0;
   overflow: hidden; }
   
   
   
 .view-latest-news .node-teaser .field-type-image {
-	max-width: 300px; 
-    margin: 0 0px 0px 0;}
+
+    margin: 0 0px 0px 0;
+ height: auto; 
+	
+	
+	}
 
 @media (min-width: 480px){
 .listing__image, .node-teaser .field-type-image {
-	max-width: 300px; 
+
     float: left;
     margin: 0 0px 0px 0;
+	
 }
 
 
@@ -14137,7 +14226,7 @@ tr.selected td {
   position: relative;
   width: 95px;
   height: 61px;
-  margin: 5px 0;
+  margin: 10px 0;
   padding: 0.75em 0.8em;
   color: #408ebf;
   background-color: #e2e2e2;
