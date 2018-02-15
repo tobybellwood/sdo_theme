@@ -1073,14 +1073,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -3055,14 +3055,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -5563,14 +5563,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -7621,14 +7621,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -9684,14 +9684,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -11703,14 +11703,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -13704,14 +13704,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 75%; } }
+    max-width: 100%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 300px; } }
+    max-height: 125px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
