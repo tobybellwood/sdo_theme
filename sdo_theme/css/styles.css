@@ -1,8 +1,6 @@
 .view-content.ui-accordion .ui-accordion-header h3:focus, .view-content.ui-accordion .ui-accordion-header h3:active {
   background: black;
   outline: medium solid #4dc9e3 !important; }
-  
-
 
 .header {
     position: relative;
@@ -19,6 +17,7 @@
 	
 	position:relative;
 	margin-top:20rem;
+	margin-bottom:-20rem;
 }
 
 
@@ -1074,14 +1073,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -3056,14 +3055,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -5564,14 +5563,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -7622,14 +7621,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -9685,14 +9684,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -11704,14 +11703,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
@@ -13705,14 +13704,14 @@ html.js .collapsed .fieldset-legend {
 @media (min-width: 720px) {
   .header__logo {
     float: left;
-    max-width: 50%; } }
+    max-width: 75%; } }
 
 .header__logo-image {
   vertical-align: top; }
 
 @media (min-width: 980px) {
   .header__logo-image {
-    max-height: 75px; } }
+    max-height: 300px; } }
 
 .header__secondary-menu {
   margin: 10px 0; }
