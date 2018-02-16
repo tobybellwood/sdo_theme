@@ -12,6 +12,11 @@
 	
 }
 
+.yellow{
+	color:#EFCC4D;
+	
+}
+
 .test{
 	
 	position:relative;
@@ -28,7 +33,7 @@
   width: 90px;
   height: 100px;
   margin: -5px 0px 0px 0px;
-  background: url("../images/arrow.png") no-repeat; 
+  background: url("../images/Arrow.png") no-repeat; 
   background-size: 75px 75px;
 }
 
@@ -81,7 +86,7 @@
   width: 90px;
   height: 100px;
   margin: -5px 0px 0px 0px;
-  background: url("../images/tick.png") no-repeat; 
+  background: url("../images/Tick.png") no-repeat; 
   background-size: 75px 75px;
   
 }
@@ -112,6 +117,9 @@
 .breakline {
     word-wrap: break-word;
 }
+
+
+  
 
  /* arrows for the about us page */
  .about__title {
