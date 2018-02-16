@@ -12,7 +12,6 @@
 	
 }
 
-
 .test{
 	
 	position:relative;
@@ -20,6 +19,99 @@
 	margin-bottom:-20rem;
 }
 
+
+.about__arrow {
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin: -5px 0px 0px 0px;
+  background: url("../images/arrow.png") no-repeat; 
+  background-size: 75px 75px;
+}
+
+.about__object {
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin: -5px 0px 0px 0px;
+  background: url("../images/object.png") no-repeat; 
+  background-size: 75px 75px;
+  
+}
+
+.about__people {
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin: -5px 0px 0px 0px;
+  background: url("../images/people.png") no-repeat; 
+  background-size: 75px 75px;
+  
+}
+
+
+.about__star {
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin: -5px 0px 0px 0px;
+  background: url("../images/star.png") no-repeat; 
+  background-size: 75px 75px;
+  
+}
+
+
+.about__tick {
+  line-height: 18px;
+  line-height: 1.17333rem;
+  float: left;
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin: -5px 0px 0px 0px;
+  background: url("../images/tick.png") no-repeat; 
+  background-size: 75px 75px;
+  
+}
+
+
+
+.about__graphictext {
+  line-height: 34px;
+  line-height: 2.26667rem;
+  margin: 0 0 0 15px; 
+  
+  }
+
+.about__graphictext p {
+  margin: 0; }
+  
+ .about__graphictext h3 {
+  margin: -4px 0 0.05px;
+  }
+ 
+ .about__graphictext { 
+    padding-bottom: 2rem;
+	padding-top: 1rem;
+	padding-left: 4rem;
+  }
+  
+  
+.breakline {
+    word-wrap: break-word;
+}
 
  /* arrows for the about us page */
  .about__title {

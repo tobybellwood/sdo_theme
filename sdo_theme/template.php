@@ -126,41 +126,6 @@ function sdo_theme_preprocess_block(&$variables, $hook) {
 /**
  * Implementation for govcms_social_link.
  */
-function sdo_theme_govcms_social_link($variables) {
-  $title = $variables['title'];
-  $output = '';
-
-  if ($title == 'Youtube') {
-    $variables['icon'] = base_path() . drupal_get_path('theme', 'sdo_theme') . '/images/youtube.png';
-  }
-
-  $service_image = theme('image', array(
-    'path' => $variables['icon'],
-    'title' => $variables['title'],
-    'alt' => $variables['title'],
-  ));
-
-  $img_link = theme('link', array(
-    'text' => $service_image,
-    'path' => $variables['url'],
-    'options' => array(
-      'html' => TRUE,
-      'attributes' => array('class' => array('social-links-img-link')),
-    ),
-  ));
-
-  $title_link = theme('link', array(
-    'text' => $title,
-    'path' => $variables['url'],
-    'options' => array(
-      'html' => TRUE,
-      'attributes' => array('class' => array('social-links-title-title')),
-    ),
-  ));
-
-  $output .= '<div class="social-link">'  . $img_link   . $title_link . '</div>';
-  return $output;
-}
 
 /**
  * Returns HTML for a button form element.
